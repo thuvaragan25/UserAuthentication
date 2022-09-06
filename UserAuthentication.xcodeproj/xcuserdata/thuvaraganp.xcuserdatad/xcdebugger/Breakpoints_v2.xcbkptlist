@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0C6DE04A-F6D4-444A-BAA4-DB26CA6D82B0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B73252A4-8BF5-40AB-9A3D-C87A47C6D5FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserAuthentication/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "B73252A4-8BF5-40AB-9A3D-C87A47C6D5FB - b7b7d0c8531cd6e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserAuthentication.ContentView.init() -&gt; UserAuthentication.ContentView"
+                  moduleName = "UserAuthentication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thuvaraganp/Desktop/iOSDevProjects/UserAuthentication/UserAuthentication/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "B73252A4-8BF5-40AB-9A3D-C87A47C6D5FB - d07a51ff91c28449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserAuthentication.ContentView.init(isLoginMode: Swift.Bool, email: Swift.String, password: Swift.String, loginStatusMessage: Swift.String) -&gt; UserAuthentication.ContentView"
+                  moduleName = "UserAuthentication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thuvaraganp/Desktop/iOSDevProjects/UserAuthentication/UserAuthentication/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
